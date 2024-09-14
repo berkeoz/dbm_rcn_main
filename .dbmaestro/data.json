@@ -96,8 +96,28 @@
           ]
         }
       ],
-      "DatabasesStaticDataObjects": null,
-      "DatabasesScopeObjects": null
+      "DatabasesStaticDataObjects": [
+        {
+          "StaticDataObjects": [
+            {
+              "UniqueIndex": "DBM_EmployeeID_ASC",
+              "schema": "dbo",
+              "name": "Employees",
+              "type": "Table"
+            }
+          ],
+          "DatabaseId": "c7dae6c8-effa-49b1-b48b-12e46977a4c5",
+          "DatabaseAliasName": "DB1"
+        }
+      ],
+      "DatabasesScopeObjects": [
+        {
+          "ExcludeObjects": [],
+          "IncludeObjects": [],
+          "DatabaseId": "c7dae6c8-effa-49b1-b48b-12e46977a4c5",
+          "DatabaseAliasName": "DB1"
+        }
+      ]
     }
   ],
   "GlobalConfigurations": null,
