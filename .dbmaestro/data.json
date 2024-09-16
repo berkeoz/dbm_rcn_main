@@ -212,6 +212,12 @@
               "schema": "dbo",
               "name": "Employees",
               "type": "Table"
+            },
+            {
+              "UniqueIndex": "DBM_DepartmentID_ASC",
+              "schema": "dbo",
+              "name": "Departments",
+              "type": "Table"
             }
           ],
           "DatabaseId": "dece9f6b-f8bb-4fb4-9629-253956f398f1",
